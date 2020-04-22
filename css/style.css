@@ -56,7 +56,7 @@ width:48%;
 }
 
 .column img{
- display: inline-block;
+ display: inline;
 }
 
 /* create your tile classes! we recommend .small .med .large */
