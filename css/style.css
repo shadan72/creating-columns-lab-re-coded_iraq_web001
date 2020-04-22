@@ -49,12 +49,11 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
-  display:flex;
+  display:block;
 width:48%;}
 
 .column img{
- flex: 33.33%;
-
+ display: 
 }
 
 /* create your tile classes! we recommend .small .med .large */
