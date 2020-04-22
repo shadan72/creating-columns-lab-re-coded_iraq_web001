@@ -50,7 +50,9 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
   display:flex;
-width:48%;}
+width:48%;
+  flex:2;
+}
 
 .column img{
  
