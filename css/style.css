@@ -54,7 +54,7 @@ width:48%;}
 
 .column img{
 flex:2;
-vertical-align: top; 
+vertical-align:flex; 
 }
 
 /* create your tile classes! we recommend .small .med .large */
