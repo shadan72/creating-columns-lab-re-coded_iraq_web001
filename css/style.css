@@ -51,7 +51,7 @@ img:hover {
 .column{
   display:inline-block;
 width:48%;
- margin-left:-10%;
+ margin-left:-10px;
 
 }
 
