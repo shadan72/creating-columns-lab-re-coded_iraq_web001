@@ -58,7 +58,7 @@ width:48%;
 .column img{
  display: flex;
  padding:2px;
-  margin-left:-10px;
+
 }
 
 /* create your tile classes! we recommend .small .med .large */
