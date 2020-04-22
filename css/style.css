@@ -56,12 +56,12 @@ display: inline-block;
 }
 /* create your tile classes! we recommend .small .med .large */
 .small{
-width:40%;
-height: 40%;
+width:50%;
+height: 50%;
 }
 .med{
- width:70%;
-height: 70%;
+ width:80%;
+height: 80%;
 }
 .large{
     width:90%;
