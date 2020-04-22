@@ -59,12 +59,12 @@ display:inline-block;
 
 /* create your tile classes! we recommend .small .med .large */
 .small{
-width:40%;
-height: 40%;
+width:50%;
+height: 50%;
 }
 .med{
- width:80%;
-height: 80%;
+ width:90%;
+height: 90%;
 }
 .large{
     width:90%;
